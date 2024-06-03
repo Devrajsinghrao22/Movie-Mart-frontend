@@ -1,0 +1,18 @@
+.carry-card:hover{
+    transform: scale(0.98);
+    background-color: rgb(232, 232, 232);
+  
+  }
+  .carry-card{
+    transition: transform 0.5s ease;
+  }
+
+  .add-new-playlist{
+    border: 1px dashed rgb(72, 72, 190);
+  }
+
+.menu:hover{
+    background-color: red;
+
+}
+
